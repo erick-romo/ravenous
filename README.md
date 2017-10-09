@@ -1,0 +1,1 @@
+Ravenous Project uses Yelp Api to pull up businesses based on category and location. 
